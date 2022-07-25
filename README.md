@@ -1,1 +1,1 @@
-# assets
+# FooBar assets
